@@ -2,7 +2,7 @@
 
 OpenCV-Python Learning Notebook
 
-- [ ] 1 图像
+- [x] 1 图像
 - [ ] 2 视频
 - [ ] 3 绘图
 - [ ] 4 图像操作
